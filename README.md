@@ -37,7 +37,11 @@ To compress & mangle `main.js`
 Includes
 
 `SIZZLE - A pure-JavaScript CSS selector engine designed to be easily dropped in to a host library.`
+
 `Backbone.js`
+
 `jQuery Waypoints`
+
 `jQuery TimeAgo Plugin`
+
 `jQuery Easing Plugin`
